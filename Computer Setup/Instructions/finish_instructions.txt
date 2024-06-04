@@ -1,0 +1,8 @@
+Congratulations! You are almost finished assembling your system.
+
+To finish off, you may want to refer to the manual provided by your PC Case manufacturer, as there may be some additional functions on the Case, such as front panel ports, power button, etc. 
+You would need to connect them to the motherboard. For this, refer to the motherboard and PC case manuals.
+
+After this you can close the case. Depending on the case, you might also need to screw it into place.
+
+You can try connecting display and peripherals, and powering up your system. Good luck!

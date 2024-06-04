@@ -1,0 +1,32 @@
+[
+  {
+    "libraryIdentifier" : "33e23cede36ccedfdf117a091ebdab1c",
+    "format" : "model",
+    "displayName" : "fan.usdz"
+  },
+  {
+    "displayName" : "gpu.usdz",
+    "libraryIdentifier" : "9d0f9e411422ba494d77f4299421b436",
+    "format" : "model"
+  },
+  {
+    "libraryIdentifier" : "86882b69603ef691d5f3b0dd340f379e",
+    "displayName" : "motherboard.usdz",
+    "format" : "model"
+  },
+  {
+    "displayName" : "cpu.usdz",
+    "libraryIdentifier" : "0db0f50d30ef7cf5a117050ff50536b3",
+    "format" : "model"
+  },
+  {
+    "libraryIdentifier" : "126cfa833b7c1589f02583aa1231ddbb",
+    "displayName" : "pcCase.usdz",
+    "format" : "model"
+  },
+  {
+    "libraryIdentifier" : "772fdf83bb321f6129ba51c0f6b178b9",
+    "format" : "model",
+    "displayName" : "ram.usdz"
+  }
+]

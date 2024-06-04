@@ -11,6 +11,28 @@
 		F44B65522C08D6D000B9EA92 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44B65512C08D6D000B9EA92 /* ContentView.swift */; };
 		F44B65542C08D6D200B9EA92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F44B65532C08D6D200B9EA92 /* Assets.xcassets */; };
 		F44B65572C08D6D200B9EA92 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F44B65562C08D6D200B9EA92 /* Preview Assets.xcassets */; };
+		F44B655F2C08D6E100B9EA92 /* FocusEntity in Frameworks */ = {isa = PBXBuildFile; productRef = F44B655E2C08D6E100B9EA92 /* FocusEntity */; };
+		F463D51C2C0E53D30087A053 /* ARViewContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F463D51B2C0E53D30087A053 /* ARViewContainer.swift */; };
+		F463D51E2C0E53E30087A053 /* PlacementParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = F463D51D2C0E53E30087A053 /* PlacementParameters.swift */; };
+		F463D5272C0EE2160087A053 /* RoundedBlueButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F463D5262C0EE2160087A053 /* RoundedBlueButton.swift */; };
+		F463D52A2C0EE3300087A053 /* GatherComponentsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F463D5292C0EE3300087A053 /* GatherComponentsView.swift */; };
+		F463D52D2C0EE3510087A053 /* RequiredComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F463D52C2C0EE3510087A053 /* RequiredComponent.swift */; };
+		F463D5322C0EFC640087A053 /* InstructionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F463D5312C0EFC640087A053 /* InstructionView.swift */; };
+		F463D5342C0F0B880087A053 /* InstructionImporter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F463D5332C0F0B880087A053 /* InstructionImporter.swift */; };
+		F463D5372C0F0BC00087A053 /* cpu_instructions.txt in Resources */ = {isa = PBXBuildFile; fileRef = F463D5362C0F0BC00087A053 /* cpu_instructions.txt */; };
+		F463D53A2C0F19E80087A053 /* DemonstrationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F463D5392C0F19E80087A053 /* DemonstrationView.swift */; };
+		F463D5432C0F44A40087A053 /* InstructionsStepBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F463D5422C0F44A40087A053 /* InstructionsStepBuilder.swift */; };
+		F463D5462C0F46A70087A053 /* ComponentType.swift in Sources */ = {isa = PBXBuildFile; fileRef = F463D5452C0F46A70087A053 /* ComponentType.swift */; };
+		F487E67F2C0E52DA006E39C8 /* CustomARView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F487E67E2C0E52DA006E39C8 /* CustomARView.swift */; };
+		F4A61E5A2C0F54F100119A79 /* drive_instructions.txt in Resources */ = {isa = PBXBuildFile; fileRef = F4A61E522C0F54F100119A79 /* drive_instructions.txt */; };
+		F4A61E5B2C0F54F100119A79 /* fan_instructions.txt in Resources */ = {isa = PBXBuildFile; fileRef = F4A61E532C0F54F100119A79 /* fan_instructions.txt */; };
+		F4A61E5C2C0F54F100119A79 /* finish_instructions.txt in Resources */ = {isa = PBXBuildFile; fileRef = F4A61E542C0F54F100119A79 /* finish_instructions.txt */; };
+		F4A61E5D2C0F54F100119A79 /* psu_instructions.txt in Resources */ = {isa = PBXBuildFile; fileRef = F4A61E552C0F54F100119A79 /* psu_instructions.txt */; };
+		F4A61E5E2C0F54F100119A79 /* mb_to_case_instructions.txt in Resources */ = {isa = PBXBuildFile; fileRef = F4A61E562C0F54F100119A79 /* mb_to_case_instructions.txt */; };
+		F4A61E5F2C0F54F100119A79 /* gpu_instructions.txt in Resources */ = {isa = PBXBuildFile; fileRef = F4A61E572C0F54F100119A79 /* gpu_instructions.txt */; };
+		F4A61E602C0F54F100119A79 /* ram_instructions.txt in Resources */ = {isa = PBXBuildFile; fileRef = F4A61E582C0F54F100119A79 /* ram_instructions.txt */; };
+		F4A61E612C0F54F100119A79 /* thermal_instructions.txt in Resources */ = {isa = PBXBuildFile; fileRef = F4A61E592C0F54F100119A79 /* thermal_instructions.txt */; };
+		F4CB60412C0CDED50011D555 /* Setup Computer.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = F4CB60402C0CDED50011D555 /* Setup Computer.rcproject */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +41,28 @@
 		F44B65512C08D6D000B9EA92 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F44B65532C08D6D200B9EA92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F44B65562C08D6D200B9EA92 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F463D51B2C0E53D30087A053 /* ARViewContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARViewContainer.swift; sourceTree = "<group>"; };
+		F463D51D2C0E53E30087A053 /* PlacementParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacementParameters.swift; sourceTree = "<group>"; };
+		F463D5262C0EE2160087A053 /* RoundedBlueButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedBlueButton.swift; sourceTree = "<group>"; };
+		F463D5292C0EE3300087A053 /* GatherComponentsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GatherComponentsView.swift; sourceTree = "<group>"; };
+		F463D52C2C0EE3510087A053 /* RequiredComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequiredComponent.swift; sourceTree = "<group>"; };
+		F463D5312C0EFC640087A053 /* InstructionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionView.swift; sourceTree = "<group>"; };
+		F463D5332C0F0B880087A053 /* InstructionImporter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionImporter.swift; sourceTree = "<group>"; };
+		F463D5362C0F0BC00087A053 /* cpu_instructions.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = cpu_instructions.txt; sourceTree = "<group>"; };
+		F463D5392C0F19E80087A053 /* DemonstrationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemonstrationView.swift; sourceTree = "<group>"; };
+		F463D5422C0F44A40087A053 /* InstructionsStepBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionsStepBuilder.swift; sourceTree = "<group>"; };
+		F463D5452C0F46A70087A053 /* ComponentType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComponentType.swift; sourceTree = "<group>"; };
+		F487E67E2C0E52DA006E39C8 /* CustomARView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomARView.swift; sourceTree = "<group>"; };
+		F4A61E522C0F54F100119A79 /* drive_instructions.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = drive_instructions.txt; sourceTree = "<group>"; };
+		F4A61E532C0F54F100119A79 /* fan_instructions.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = fan_instructions.txt; sourceTree = "<group>"; };
+		F4A61E542C0F54F100119A79 /* finish_instructions.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = finish_instructions.txt; sourceTree = "<group>"; };
+		F4A61E552C0F54F100119A79 /* psu_instructions.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = psu_instructions.txt; sourceTree = "<group>"; };
+		F4A61E562C0F54F100119A79 /* mb_to_case_instructions.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mb_to_case_instructions.txt; sourceTree = "<group>"; };
+		F4A61E572C0F54F100119A79 /* gpu_instructions.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = gpu_instructions.txt; sourceTree = "<group>"; };
+		F4A61E582C0F54F100119A79 /* ram_instructions.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ram_instructions.txt; sourceTree = "<group>"; };
+		F4A61E592C0F54F100119A79 /* thermal_instructions.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = thermal_instructions.txt; sourceTree = "<group>"; };
+		F4A61E622C0F5C5700119A79 /* Computer Setup.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Computer Setup.entitlements"; sourceTree = "<group>"; };
+		F4CB60402C0CDED50011D555 /* Setup Computer.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = "Setup Computer.rcproject"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +70,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F44B655F2C08D6E100B9EA92 /* FocusEntity in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -51,9 +96,16 @@
 		F44B654E2C08D6D000B9EA92 /* Computer Setup */ = {
 			isa = PBXGroup;
 			children = (
-				F44B654F2C08D6D000B9EA92 /* Computer_SetupApp.swift */,
-				F44B65512C08D6D000B9EA92 /* ContentView.swift */,
+				F4A61E622C0F5C5700119A79 /* Computer Setup.entitlements */,
+				F463D5442C0F45C60087A053 /* Services */,
+				F463D5352C0F0BB30087A053 /* Instructions */,
+				F463D5252C0EE1770087A053 /* Controls */,
+				F463D5282C0EE3050087A053 /* Pages */,
+				F463D53F2C0F22830087A053 /* Models */,
 				F44B65532C08D6D200B9EA92 /* Assets.xcassets */,
+				F44B65512C08D6D000B9EA92 /* ContentView.swift */,
+				F44B654F2C08D6D000B9EA92 /* Computer_SetupApp.swift */,
+				F4CB60402C0CDED50011D555 /* Setup Computer.rcproject */,
 				F44B65552C08D6D200B9EA92 /* Preview Content */,
 			);
 			path = "Computer Setup";
@@ -65,6 +117,61 @@
 				F44B65562C08D6D200B9EA92 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F463D5252C0EE1770087A053 /* Controls */ = {
+			isa = PBXGroup;
+			children = (
+				F463D51B2C0E53D30087A053 /* ARViewContainer.swift */,
+				F487E67E2C0E52DA006E39C8 /* CustomARView.swift */,
+				F463D5262C0EE2160087A053 /* RoundedBlueButton.swift */,
+			);
+			path = Controls;
+			sourceTree = "<group>";
+		};
+		F463D5282C0EE3050087A053 /* Pages */ = {
+			isa = PBXGroup;
+			children = (
+				F463D5392C0F19E80087A053 /* DemonstrationView.swift */,
+				F463D5312C0EFC640087A053 /* InstructionView.swift */,
+				F463D5292C0EE3300087A053 /* GatherComponentsView.swift */,
+			);
+			path = Pages;
+			sourceTree = "<group>";
+		};
+		F463D5352C0F0BB30087A053 /* Instructions */ = {
+			isa = PBXGroup;
+			children = (
+				F4A61E522C0F54F100119A79 /* drive_instructions.txt */,
+				F4A61E532C0F54F100119A79 /* fan_instructions.txt */,
+				F4A61E542C0F54F100119A79 /* finish_instructions.txt */,
+				F4A61E572C0F54F100119A79 /* gpu_instructions.txt */,
+				F4A61E562C0F54F100119A79 /* mb_to_case_instructions.txt */,
+				F4A61E552C0F54F100119A79 /* psu_instructions.txt */,
+				F4A61E582C0F54F100119A79 /* ram_instructions.txt */,
+				F4A61E592C0F54F100119A79 /* thermal_instructions.txt */,
+				F463D5362C0F0BC00087A053 /* cpu_instructions.txt */,
+			);
+			path = Instructions;
+			sourceTree = "<group>";
+		};
+		F463D53F2C0F22830087A053 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				F463D51D2C0E53E30087A053 /* PlacementParameters.swift */,
+				F463D52C2C0EE3510087A053 /* RequiredComponent.swift */,
+				F463D5452C0F46A70087A053 /* ComponentType.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		F463D5442C0F45C60087A053 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				F463D5422C0F44A40087A053 /* InstructionsStepBuilder.swift */,
+				F463D5332C0F0B880087A053 /* InstructionImporter.swift */,
+			);
+			path = Services;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +190,9 @@
 			dependencies = (
 			);
 			name = "Computer Setup";
+			packageProductDependencies = (
+				F44B655E2C08D6E100B9EA92 /* FocusEntity */,
+			);
 			productName = "Computer Setup";
 			productReference = F44B654C2C08D6D000B9EA92 /* Computer Setup.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +221,9 @@
 				Base,
 			);
 			mainGroup = F44B65432C08D6D000B9EA92;
+			packageReferences = (
+				F44B655D2C08D6E100B9EA92 /* XCRemoteSwiftPackageReference "FocusEntity" */,
+			);
 			productRefGroup = F44B654D2C08D6D000B9EA92 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,7 +238,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F463D5372C0F0BC00087A053 /* cpu_instructions.txt in Resources */,
+				F4A61E612C0F54F100119A79 /* thermal_instructions.txt in Resources */,
+				F4A61E5F2C0F54F100119A79 /* gpu_instructions.txt in Resources */,
+				F4A61E5E2C0F54F100119A79 /* mb_to_case_instructions.txt in Resources */,
+				F4A61E5B2C0F54F100119A79 /* fan_instructions.txt in Resources */,
+				F4A61E5C2C0F54F100119A79 /* finish_instructions.txt in Resources */,
+				F4A61E5D2C0F54F100119A79 /* psu_instructions.txt in Resources */,
 				F44B65572C08D6D200B9EA92 /* Preview Assets.xcassets in Resources */,
+				F4A61E5A2C0F54F100119A79 /* drive_instructions.txt in Resources */,
+				F4A61E602C0F54F100119A79 /* ram_instructions.txt in Resources */,
 				F44B65542C08D6D200B9EA92 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +259,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F463D5342C0F0B880087A053 /* InstructionImporter.swift in Sources */,
+				F463D5272C0EE2160087A053 /* RoundedBlueButton.swift in Sources */,
+				F487E67F2C0E52DA006E39C8 /* CustomARView.swift in Sources */,
 				F44B65522C08D6D000B9EA92 /* ContentView.swift in Sources */,
+				F463D52D2C0EE3510087A053 /* RequiredComponent.swift in Sources */,
 				F44B65502C08D6D000B9EA92 /* Computer_SetupApp.swift in Sources */,
+				F4CB60412C0CDED50011D555 /* Setup Computer.rcproject in Sources */,
+				F463D5462C0F46A70087A053 /* ComponentType.swift in Sources */,
+				F463D53A2C0F19E80087A053 /* DemonstrationView.swift in Sources */,
+				F463D5322C0EFC640087A053 /* InstructionView.swift in Sources */,
+				F463D5432C0F44A40087A053 /* InstructionsStepBuilder.swift in Sources */,
+				F463D52A2C0EE3300087A053 /* GatherComponentsView.swift in Sources */,
+				F463D51C2C0E53D30087A053 /* ARViewContainer.swift in Sources */,
+				F463D51E2C0E53E30087A053 /* PlacementParameters.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,17 +403,20 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Computer Setup/Computer Setup.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Computer Setup/Preview Content\"";
 				DEVELOPMENT_TEAM = 256VZQFPSR;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "The camera access is needed for Augmented Reality functionality";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -298,17 +435,20 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Computer Setup/Computer Setup.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Computer Setup/Preview Content\"";
 				DEVELOPMENT_TEAM = 256VZQFPSR;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "The camera access is needed for Augmented Reality functionality";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -344,6 +484,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		F44B655D2C08D6E100B9EA92 /* XCRemoteSwiftPackageReference "FocusEntity" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/maxxfrazer/FocusEntity";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.5.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		F44B655E2C08D6E100B9EA92 /* FocusEntity */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F44B655D2C08D6E100B9EA92 /* XCRemoteSwiftPackageReference "FocusEntity" */;
+			productName = FocusEntity;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = F44B65442C08D6D000B9EA92 /* Project object */;
 }

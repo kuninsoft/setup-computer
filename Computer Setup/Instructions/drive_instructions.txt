@@ -1,0 +1,7 @@
+Refer to the manual provided with your Computer Case to find the location of Disk Drive rack. 
+
+If you have 3.5" Hard Drives, you need to insert them into the rack and screw to fix them into place. After that you need to connect SATA cables to the Motherboard and Power Supply.
+
+If you have a 2.5" Hard drive or a SATA Solid State drive, you don't need to mount it with screws, but you still should make sure that it is properly fixated to avoid any potential risks. The connection process is similar to the 3.5" Hard Drives.
+
+If you have an M.2 Solid State Drive, connect it to the respective slot in the motherboard and screw it for proper fixation.

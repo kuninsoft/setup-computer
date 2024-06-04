@@ -1,0 +1,5 @@
+To install Graphics Card, you need to insert it into a PCI Express x16 slot on your motherboard.
+
+You can install it into any of the slots, but check with the motherboard manual if your system has different ports with different versions of PCI Express. You may want to install the Graphics card into the higher version port, as it will provide you with the best possible performance.
+
+After inserting the Graphics Card into Motherboard, connect the cables to Power Supply, so the GPU has power.

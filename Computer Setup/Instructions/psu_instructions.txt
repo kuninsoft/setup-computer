@@ -1,0 +1,5 @@
+For the system to work and have the power, you need to install the Power Supply and connect it to the motherboard.
+
+Please refer to the Motherboard and Power Supply manual for connecting computer to the power. Use cables provided with power supply/motherboard.
+
+Warning! Don't connect power supply to the electric grid when you still haven't mounted it and connected it. This is a device of an increased risk with high current in it, which may be an electric hazard.

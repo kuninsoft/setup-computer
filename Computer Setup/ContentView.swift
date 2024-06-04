@@ -2,20 +2,41 @@
 //  ContentView.swift
 //  Computer Setup
 //
-//  Created by Sviatoslav Kunynets on 30.05.2024.
+//  Created by Sviatoslav Kunynets
 //
 
 import SwiftUI
+import RealityKit
 
-struct ContentView: View {
+struct ContentView: View {   
+    @State private var isNavigated = false
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        NavigationStack {
+            ZStack {
+                Color("BackgroundColor")
+                    .ignoresSafeArea()
+                
+                VStack {
+                    Spacer()
+                    
+                    Text("Hello!")
+                        .font(.largeTitle)
+                    
+                    Spacer()
+
+                    RoundedBlueButton("Start Installation") {
+                        isNavigated = true
+                    }
+                    .navigationDestination(isPresented: $isNavigated) {
+                        GatherComponentsView()
+                    }
+                    .padding()
+                    
+                    Spacer()
+                }
+            }
         }
-        .padding()
     }
 }
 

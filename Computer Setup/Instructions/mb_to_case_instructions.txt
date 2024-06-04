@@ -1,0 +1,5 @@
+Gently and carefully take the motherboard align it with the screw holes in the case and screw it tightly, so it does not fall off.
+
+Make sure that all the ports of the motherboard can be seen and are not blocked by the rear end of the case.
+
+Be careful not to drop the motherboard, as such damage may be critical to your new installation and it can cause serious problems.

@@ -1,0 +1,3 @@
+To apply thermal paste onto the processor, put a small pea-sized drop of the thermal fluid onto the chip and carefully flatten it over the processor's surface.
+
+Be especially careful, if thermal fluid gets onto the motherboard, it can damage it. If this happened, gently remove the thermal fluid from the surface with a paper towel.

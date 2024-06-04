@@ -1,0 +1,12 @@
+To install CPU, first you need to find the socket on your motherboard.
+
+Find the latch and release it to unlock the socket. You may need to unscrew some screws on the socket lock if there are any.
+
+After doing this, find a triangle marking on your processor and on the socket and carefully align the CPU with the socket, matching the corners with triangles on them. Carefully place the CPU into the socket, it should fall in easily.
+
+Under any circumstances DO NOT use pressure on the CPU when inserting it.
+Do not touch metal contacts neither or the processor nor the socket. Doing this may damage the CPU beyond repair.
+
+After successfully inserting the processor, lock the latch of the socket and screw back the screws if there were any.
+
+The following demonstration uses Augmented Reality to help you locate the socket on a motherboard.

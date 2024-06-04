@@ -1,0 +1,3 @@
+To install RAM sticks, insert them with the side which has the gold-colored metal contacts into the motherboard RAM slots, until they “click” and become locked in.
+
+If you have multiple RAM sticks, it is better to insert them into every other slot, so the dual-channeling works and improves performance of your machine.
